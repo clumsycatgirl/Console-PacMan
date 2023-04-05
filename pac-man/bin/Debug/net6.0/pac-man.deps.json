@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pac-man/1.0.0": {
+        "dependencies": {
+          "NCurses": "1.2.0"
+        },
+        "runtime": {
+          "pac-man.dll": {}
+        }
+      },
+      "NCurses/1.2.0": {
+        "runtime": {
+          "lib/NCurses.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pac-man/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NCurses/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dmWgtVDuSl4tmSPpYm2EIrdN+DyARG3Zy0lcpjiO1+Jl+fKEfOKDE0tPOC6qx663mQl/egcne+alHysNrVpC0Q==",
+      "path": "ncurses/1.2.0",
+      "hashPath": "ncurses.1.2.0.nupkg.sha512"
+    }
+  }
+}

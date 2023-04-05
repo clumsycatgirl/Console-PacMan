@@ -1,0 +1,15 @@
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\bin\Debug\net6.0\MapCreator.exe
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\bin\Debug\net6.0\MapCreator.deps.json
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\bin\Debug\net6.0\MapCreator.runtimeconfig.json
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\bin\Debug\net6.0\MapCreator.dll
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\bin\Debug\net6.0\MapCreator.pdb
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\obj\Debug\net6.0\MapCreator.csproj.AssemblyReference.cache
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\obj\Debug\net6.0\MapCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\obj\Debug\net6.0\MapCreator.AssemblyInfoInputs.cache
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\obj\Debug\net6.0\MapCreator.AssemblyInfo.cs
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\obj\Debug\net6.0\MapCreator.csproj.CoreCompileInputs.cache
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\obj\Debug\net6.0\MapCreator.dll
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\obj\Debug\net6.0\refint\MapCreator.dll
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\obj\Debug\net6.0\MapCreator.pdb
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\obj\Debug\net6.0\MapCreator.genruntimeconfig.cache
+C:\Users\eric0\Desktop\Code\c#\pac-man\MapCreator\obj\Debug\net6.0\ref\MapCreator.dll
